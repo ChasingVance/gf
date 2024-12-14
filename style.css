@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Roboto';
+  src: (roboto-v27-latin-regular.ttf);
+  font-weight: 400;
+  )
+}
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  text-align: center;
+  text-shadow: 2px 2px 4px #cccc;
+}
+#looks {
+  padding: 25px, 50px, 25px, 50px;
+}
+#acts {
+  padding: 25px, 50px, 25px, 50px;
+}
+#treats {
+  padding: 25px, 50px, 25px, 50px;
+}
