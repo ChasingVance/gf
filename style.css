@@ -17,6 +17,10 @@ body {
   background-attachment: fixed;
   text-align: center;
   text-shadow: 2px 2px 4px #cccc;
+  font-size: 20px;
+}
+footer {
+  font-family: 'Roboto', sans-serif;
 }
 #looks {
   padding: 25px, 50px, 25px, 50px;
@@ -26,4 +30,7 @@ body {
 }
 #treats {
   padding: 25px, 50px, 25px, 50px;
+}
+#loveHateButton {
+  font-size: 20px;
 }
